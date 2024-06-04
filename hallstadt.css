@@ -1,0 +1,27 @@
+.navbar{
+    justify-content: center;
+  
+  }
+  .nav-item{
+      padding: 0px 100px;
+  }
+  body{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/003/267/214/non_2x/modern-clean-white-background-free-vector.jpg);
+  }
+  .card{
+    margin: 15px;
+   
+  }
+  .card:hover{
+    border: black 2px solid;
+    
+  }
+  a{
+    text-decoration: none;
+  }
+
+.row{
+  margin-left: 450px;
+}
+  
+  
