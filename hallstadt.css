@@ -1,0 +1,23 @@
+.navbar{
+    justify-content: center;
+  
+  }
+  .nav-item{
+      padding: 0px 100px;
+  }
+  body{
+    
+  }
+  .card{
+    margin: 15px;
+    
+  }
+  .card:hover{
+    border: black 2px solid;
+    
+  }
+  a{
+    text-decoration: none;
+  }
+  
+  
